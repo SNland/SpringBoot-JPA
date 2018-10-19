@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.dcm.springbootdemo.GirlProperties",
+      "name": "girl",
+      "type": "com.dcm.springbootdemo.GirlProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.dcm.springbootdemo.GirlProperties",
+      "name": "girl.age",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.dcm.springbootdemo.GirlProperties",
+      "name": "girl.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

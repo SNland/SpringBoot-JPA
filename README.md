@@ -1,2 +1,1 @@
-# SpringBoot-JPA
-SpringBoot+MySQL+Hibernate+JPA：demo
+# SpringBoot+JPA
